@@ -1,0 +1,38 @@
+.container {
+    height: 850px;
+    background-color: gray;
+    text-align: center;
+    font-size: 50px;
+    padding: 20px;
+}
+
+.blue {
+    height: 200px;
+    background-color: blue;
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.pink {
+    height: 200px;
+    background-color: pink;
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.white {
+    height: 200px;
+    background-color: white;
+    margin: 30px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.octocat {
+    height: 200px;
+}
